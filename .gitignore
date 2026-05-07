@@ -1,0 +1,8 @@
+# Blenderのバックアップファイル
+*.blend1
+*.blend2
+*.blend3
+
+# 一時ファイルやレンダリング結果
+/render/
+*.autosave
