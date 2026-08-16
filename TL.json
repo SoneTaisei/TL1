@@ -181,12 +181,33 @@
             }
         },
         {
+            "type": "EnemySpawn",
+            "name": "EnemySpawn",
+            "transform": {
+                "translation": [
+                    0.0,
+                    11.483138084411621,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    -0.0,
+                    0.0
+                ],
+                "scaling": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            }
+        },
+        {
             "type": "PlayerSpawn",
             "name": "PlayerSpawn",
             "transform": {
                 "translation": [
-                    0.0,
-                    20.91733741760254,
+                    7.060552597045898,
+                    6.4817352294921875,
                     0.0
                 ],
                 "rotation": [
